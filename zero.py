@@ -2,6 +2,7 @@
 # Time Succes decompile : 2022-03-12 17:47:35.910329
 from imp import reload
 import os, time, requests, datetime, random,multiprocessing.pool, getpass, json, threading, sys, uuid, shutil, zlib, base64
+from re import M
 from types import MemberDescriptorType
 from xml.dom import NotFoundErr
 from site import main
@@ -85,12 +86,12 @@ def main_apv():
     try:
         r=requests.get('https://graph.facebook.com/me?access_token=' + token)
         q=json.loads(r.text)
-        m=q['name']
+        q['name']
         print ('')
     except requests.exceptions.ConnectionError:
         print (logo)
         print ('')
-        print ("Trun On Data An Then \t")
+        print ("Turn On Data An Then \t")
         print("")
     except:
         print ('\x1b[1;91mToken on Chekpiont ')
@@ -291,7 +292,7 @@ def fb_menu():
             try:
                 r=requests.get('https://graph.facebook.com/me?access_token=' + tok)
                 q=json.loads(r.text)
-                m=q['name']
+                q['name']
                 print ('')
                 print ('WELCOME : '+m)
                 time.sleep(2)

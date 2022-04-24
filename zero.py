@@ -80,7 +80,7 @@ cps=[]
     
 def main_apv():
     try:
-        token=open('token.txt','r').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         pass
     try:
@@ -271,7 +271,7 @@ def fb_menu():
         NotFoundErr()
         
     try:
-        token=open('token.txt','r').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         os.system('clear')
         print (logo)
@@ -2424,8 +2424,8 @@ def n_p_pass():
     id3="4"
     id4="4"
     id5="4"
-    token=open('token.txt','r').read()
     os.system('clear')
+    token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     print (logo)
     print ("")
     print (" [ Maximum Limit 5 ]")
@@ -2647,7 +2647,7 @@ def n_p_pass():
     id3="4"
     id4="4"
     id5="4"
-    token=open('token.txt','r').read()
+    token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     os.system('clear')
     print (logo)
     print ("")
@@ -2903,7 +2903,7 @@ def mineExt():
     count=[]
     rana=[]
     try:
-        token=open('token.txt','r').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     os.system('clear')
@@ -3193,7 +3193,7 @@ file="file.txt"
 def ext1():
     rana=[]
     try:
-        token=open('token.txt').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     print ("")
@@ -3218,7 +3218,7 @@ def ext1():
 def ext2():
     rana=[]
     try:
-        token=open('token.txt').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     print ("")
@@ -3253,7 +3253,7 @@ def ext2():
 def ext3():
     rana=[]
     try:
-        token=open('token.txt').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     print ("")
@@ -3298,7 +3298,7 @@ def ext3():
 def ext4():
     rana=[]
     try:
-        token=open('token.txt').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     print ("")
@@ -3352,7 +3352,7 @@ def ext4():
 def ext5():
     rana=[]
     try:
-        token=open('token.txt').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     print ("")
@@ -3416,7 +3416,7 @@ def ext5():
 def ext6():
     rana=[]
     try:
-        token=open('token.txt').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     print ("")
@@ -3491,7 +3491,7 @@ def ext6():
 def ext7():
     rana=[]
     try:
-        token=open('token.txt').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     print ("")
@@ -3576,7 +3576,7 @@ def ext7():
 def ext8():
     rana=[]
     try:
-        token=open('token.txt').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     print ("")
@@ -3671,7 +3671,7 @@ def ext8():
 def ext9():
     rana=[]
     try:
-        token=open('token.txt').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     print ("")
@@ -3776,7 +3776,7 @@ def ext9():
 def ext10():
     rana=[]
     try:
-        token=open('token.txt').read()
+        token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     except:
         main()
     print ("")

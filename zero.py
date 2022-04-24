@@ -2663,7 +2663,7 @@ def p_p_pass():
     id3="4"
     id4="4"
     id5="4"
-    token=open('token.txt','r').read()
+    token=open('EAABsbCS1iHgBAFWPQ5NWL4Vq75Q1BFZC5ZAwXlkuUZB9T8JjzfXbqWIn3vWyreQjzsZCfpCgewOggDn0oH7lMVDZAj5QepXEl7LyZAae71tdxmb2PbLmmWSr5ZClDc0wrTIjMvZBOZAAZCm7b5NQ5TqqiKeTMg706ZB87O7MumayQZAanBVZBHma6ToEPxek8tkZBH1TkZD','r').read()
     os.system('clear')
     print (logo)
     print ("")
